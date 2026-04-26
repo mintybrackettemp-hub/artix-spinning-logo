@@ -9,7 +9,7 @@ git clone https://github.com/autopawn/3d-ascii-viewer.git ~/3d-ascii-viewer
 
 Then, Download the Artix OBJ file
 ```bash
-git clone [artix logo.obj file here] ~/artix.obj
+curl -O https://raw.githubusercontent.com/mintybrackettemp-hub/artix-spinning-logo/refs/heads/main/artix.obj -o ~/artix.obj
 ```
 
 after that, in your shell config(commonly ~/.bashrc or ~/.zshrc) add the following
