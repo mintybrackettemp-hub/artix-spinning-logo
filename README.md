@@ -2,7 +2,7 @@
 
 ## Installation
 
-First, git clone the baseline 3D renderer(you don't hasve to if already cloned)
+First, git clone the baseline 3D renderer(you don't have to if already cloned)
 ```bash
 git clone https://github.com/autopawn/3d-ascii-viewer.git ~/3d-ascii-viewer
 ```
